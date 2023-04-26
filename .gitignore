@@ -3,3 +3,10 @@
 
 # Misc intermediary/meta files
 _untracked/
+
+
+# Blender
+# -------
+
+# Backup files
+*.blend[0-9]*
