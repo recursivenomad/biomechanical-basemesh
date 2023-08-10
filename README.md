@@ -9,7 +9,7 @@
 ***License / Access***
 ======================
 
-This work made is freely available under the [*CC0 1.0 Universal*][URL-CC0]
+This work is made freely available under the [*CC0 1.0 Universal*][URL-CC0]
 public domain dedication, the text of which should be found in [`COPYING.txt`](./COPYING.txt)
 at the root directory of this project alongside this `README`.
 
